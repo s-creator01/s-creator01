@@ -1,16 +1,18 @@
-## Hi there 👋
+![S Projects — Simple ideas. Useful tools. Open source for everyone.](github.png)
 
-<!--
-**s-creator01/s-creator01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Sahil Khan 👋
 
-Here are some ideas to get you started:
+Automation engineer by profession. I enjoy vibe coding and turning simple ideas into useful tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open source for everyone.**
+
+## What I’m building
+
+### S Craft
+Simple, useful tools for everyday tasks, starting with PDF and image utilities.
+
+## My approach
+
+- Start with a simple idea.
+- Make the tool clear and easy to use.
+- Share useful work openly.
